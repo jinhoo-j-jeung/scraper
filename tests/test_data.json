@@ -1,0 +1,163 @@
+[
+  {
+    "Bruce Willis": {
+      "json_class": "Actor",
+      "name": "Bruce Willis",
+      "age": 61,
+      "total_gross": 562709189,
+      "movies": [
+        "The First Deadly Sin",
+        "The Verdict",
+        "Blind Date",
+        "Sunset",
+        "Die Hard",
+        "In Country",
+        "Look Who's Talking",
+        "That's Adequate",
+        "Die Hard 2",
+        "Look Who's Talking Too",
+        "The Bonfire of the Vanities",
+        "Mortal Thoughts",
+        "Hudson Hawk",
+        "Billy Bathgate",
+        "The Last Boy Scout",
+        "The Player",
+        "Death Becomes Her"
+      ]
+    },
+    "A": {
+      "json_class": "Actor",
+      "name": "A",
+      "age": 1,
+      "total_gross": 0,
+      "movies": [
+        "The First Deadly Sin"
+      ]
+    },
+    "B": {
+      "json_class": "Actor",
+      "name": "B",
+      "age": 11,
+      "total_gross": 0,
+      "movies": [
+        "The First Deadly Sin"
+      ]
+    },
+    "C": {
+      "json_class": "Actor",
+      "name": "C",
+      "age": 21,
+      "total_gross": 0,
+      "movies": [
+        "The First Deadly Sin"
+      ]
+    },
+    "D": {
+      "json_class": "Actor",
+      "name": "A",
+      "age": 31,
+      "total_gross": 0,
+      "movies": [
+        "The First Deadly Sin"
+      ]
+    },
+    "E": {
+      "json_class": "Actor",
+      "name": "E",
+      "age": 41,
+      "total_gross": 0,
+      "movies": [
+        "The First Deadly Sin"
+      ]
+    },
+    "F": {
+      "json_class": "Actor",
+      "name": "F",
+      "age": 51,
+      "total_gross": 0,
+      "movies": [
+        "The First Deadly Sin"
+      ]
+    },
+    "G": {
+      "json_class": "Actor",
+      "name": "G",
+      "age": 61,
+      "total_gross": 0,
+      "movies": [
+        "The First Deadly Sin"
+      ]
+    },
+    "H": {
+      "json_class": "Actor",
+      "name": "A",
+      "age": 71,
+      "total_gross": 0,
+      "movies": [
+        "The First Deadly Sin"
+      ]
+    },
+    "I": {
+      "json_class": "Actor",
+      "name": "A",
+      "age": 81,
+      "total_gross": 0,
+      "movies": [
+        "The First Deadly Sin"
+      ]
+    },
+    "J": {
+      "json_class": "Actor",
+      "name": "J",
+      "age": 91,
+      "total_gross": 0,
+      "movies": [
+        "The First Deadly Sin"
+      ]
+    },
+    "K": {
+      "json_class": "Actor",
+      "name": "K",
+      "age": 101,
+      "total_gross": 0,
+      "movies": [
+        "The First Deadly Sin"
+      ]
+    },
+    "L": {
+      "json_class": "Actor",
+      "name": "L",
+      "age": 111,
+      "total_gross": 0,
+      "movies": [
+        "The First Deadly Sin",
+        "1"
+      ]
+    }
+  },
+  {
+    "The First Deadly Sin": {
+      "json_class": "Movie",
+      "name": "The First Deadly Sin",
+      "wiki_page": "https://en.wikipedia.org/wiki/The_First_Deadly_Sin",
+      "box_office": 0,
+      "year": 1980,
+      "actors": [
+        "Faye Dunaway",
+        "James Whitmore",
+        "David Dukes",
+        "Brenda Vaccaro",
+        "Martin Gabel",
+        "Anthony Zerbe"
+      ]
+    },
+    "1": {
+      "json_class": "Movie",
+      "name": "1",
+      "box_office": 0,
+      "year": 1990,
+      "actors": [
+      ]
+    }
+  }
+]

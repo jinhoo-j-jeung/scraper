@@ -1,0 +1,2318 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Morgan_Freeman HTTP/1.1" 200 64057
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Just_Getting_Started_(film) HTTP/1.1" 200 16086
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Johnny_Mathis HTTP/1.1" 200 32474
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Unleashed_(film) HTTP/1.1" 200 20518
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Kerry_Condon HTTP/1.1" 200 15101
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bad_Samaritan_(film) HTTP/1.1" 200 15897
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jacqueline_Byers HTTP/1.1" 200 9587
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Blizzard_(film) HTTP/1.1" 200 11828
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Whoopi_Goldberg HTTP/1.1" 200 66304
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Eddie_(film) HTTP/1.1" 200 18445
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Richard_Jenkins HTTP/1.1" 200 28000
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/And_the_Band_Played_On_(film) HTTP/1.1" 200 29578
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/LBJ_(film) HTTP/1.1" 200 24261
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jennifer_Jason_Leigh HTTP/1.1" 200 46262
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Annihilation_(film) HTTP/1.1" 200 31145
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Oscar_Isaac HTTP/1.1" 200 37864
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Triple_Frontier_(film) HTTP/1.1" 200 13599
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Oscar_Isaac HTTP/1.1" 200 37864
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Pedro_Pascal HTTP/1.1" 200 20630
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/If_Beale_Street_Could_Talk_(film) HTTP/1.1" 200 18040
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Regina_King HTTP/1.1" 200 24495
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rent_(film) HTTP/1.1" 200 22912
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Tracie_Thoms HTTP/1.1" 200 17590
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Basement_(film) HTTP/1.1" 200 10450
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Tracie_Thoms HTTP/1.1" 200 17590
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jackson_Davis HTTP/1.1" 200 13534
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Basement_(film) HTTP/1.1" 200 10450
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Drowning_(film) HTTP/1.1" 200 11695
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Avan_Jogia HTTP/1.1" 200 30922
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Drowning_(film) HTTP/1.1" 200 11695
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Outcasts_(film) HTTP/1.1" 200 14129
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Avan_Jogia HTTP/1.1" 200 30922
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Peyton_List_(actress,_born_1998) HTTP/1.1" 200 22460
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Something_Borrowed_(film) HTTP/1.1" 200 15095
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ashley_Williams_(actress) HTTP/1.1" 200 18442
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Margin_Call_(film) HTTP/1.1" 200 23922
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Aasif_Mandvi HTTP/1.1" 200 27142
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Gods_Behaving_Badly_(film) HTTP/1.1" 200 11666
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rosie_Perez HTTP/1.1" 200 34912
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Criminal_Justice_(film) HTTP/1.1" 200 11896
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Tony_Todd HTTP/1.1" 200 23265
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Vanish_(film) HTTP/1.1" 200 14449
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Danny_Trejo HTTP/1.1" 200 27425
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Disciples_(film) HTTP/1.1" 200 10485
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Angus_Scrimm HTTP/1.1" 200 14547
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Disciples_(film) HTTP/1.1" 200 10485
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_Dies_at_the_End_(film) HTTP/1.1" 200 21450
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Daniel_Roebuck HTTP/1.1" 200 18168
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Mary_Christmas_(film) HTTP/1.1" 200 9184
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Compound_Fracture_(film) HTTP/1.1" 200 13379
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Leslie_Easterbrook HTTP/1.1" 200 15694
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_Dies_at_the_End_(film) HTTP/1.1" 200 21450
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/InSight_(film) HTTP/1.1" 200 9978
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Christopher_Lloyd HTTP/1.1" 200 41731
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Wit_(film) HTTP/1.1" 200 17153
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Eileen_Atkins HTTP/1.1" 200 43521
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Hours_(film) HTTP/1.1" 200 31986
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Miranda_Richardson HTTP/1.1" 200 34762
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Churchill_(film) HTTP/1.1" 200 19432
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/James_Purefoy HTTP/1.1" 200 22241
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Churchill_(film) HTTP/1.1" 200 19432
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Equity_(film) HTTP/1.1" 200 14001
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Alysia_Reiner HTTP/1.1" 200 20050
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Female_Brain_(film) HTTP/1.1" 200 12166
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Blake_Griffin HTTP/1.1" 200 64607
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Equity_(film) HTTP/1.1" 200 14001
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/No_Letting_Go_(film) HTTP/1.1" 200 10527
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Noah_Fleiss HTTP/1.1" 200 13695
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/No_Letting_Go_(film) HTTP/1.1" 200 10527
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Storytelling_(film) HTTP/1.1" 200 14500
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_Goodman HTTP/1.1" 200 45254
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/You_Don%27t_Know_Jack_(film) HTTP/1.1" 200 17891
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Brenda_Vaccaro HTTP/1.1" 200 22768
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/You_Don%27t_Know_Jack_(film) HTTP/1.1" 200 17891
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Just_Desserts_(film) HTTP/1.1" 200 10536
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Clapper_(film) HTTP/1.1" 200 14998
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Russell_Peters HTTP/1.1" 200 31384
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Supercon_(film) HTTP/1.1" 200 12709
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_Malkovich HTTP/1.1" 200 41162
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Clapper_(film) HTTP/1.1" 200 14998
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ribbit_(film) HTTP/1.1" 200 11832
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cherami_Leigh HTTP/1.1" 200 33960
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Beyond_the_Farthest_Star_(film) HTTP/1.1" 200 9711
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Temple_Grandin_(film) HTTP/1.1" 200 26586
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Mist_(film) HTTP/1.1" 200 36177
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Toby_Jones HTTP/1.1" 200 30131
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Christopher_and_His_Kind_(film) HTTP/1.1" 200 19088
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Alexander_Dreymon HTTP/1.1" 200 12451
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Christopher_and_His_Kind_(film) HTTP/1.1" 200 19088
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/A_Harlot%27s_Progress_(film) HTTP/1.1" 200 9924
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Anthropoid_(film) HTTP/1.1" 200 19934
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Toby_Jones HTTP/1.1" 200 30131
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Harry_Lloyd HTTP/1.1" 200 20353
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Narcopolis_(film) HTTP/1.1" 200 15404
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/James_Callis HTTP/1.1" 200 17452
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bridget_Jones%27s_Baby_(film) HTTP/1.1" 200 33824
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Gemma_Jones HTTP/1.1" 200 18230
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rocketman_(film) HTTP/1.1" 200 18210
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bryce_Dallas_Howard HTTP/1.1" 200 40144
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Deadpool_(film) HTTP/1.1" 200 100561
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Brianna_Hildebrand HTTP/1.1" 200 14817
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Deadpool_(film) HTTP/1.1" 200 100561
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/300_(film) HTTP/1.1" 200 68911
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dominic_West HTTP/1.1" 200 32202
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Revolting_Rhymes_(film) HTTP/1.1" 200 19707
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dominic_West HTTP/1.1" 200 32202
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/David_Walliams HTTP/1.1" 200 44839
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Revolting_Rhymes_(film) HTTP/1.1" 200 19707
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Tomb_Raider_(film) HTTP/1.1" 200 34118
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Walton_Goggins HTTP/1.1" 200 25251
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Stay_the_Night_(film) HTTP/1.1" 200 10393
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Barbara_Hershey HTTP/1.1" 200 44128
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Abraham_(film) HTTP/1.1" 200 13742
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Vittorio_Gassman HTTP/1.1" 200 32621
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sleepers_(film) HTTP/1.1" 200 15730
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Vittorio_Gassman HTTP/1.1" 200 32621
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Minnie_Driver HTTP/1.1" 200 31421
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Unity_(film) HTTP/1.1" 200 15134
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Return_to_Zero_(film) HTTP/1.1" 200 13855
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sarah_Jones_(screen_actress) HTTP/1.1" 200 16123
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Return_to_Zero_(film) HTTP/1.1" 200 13855
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cain_and_Abel_(film) HTTP/1.1" 200 11672
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sarah_Jones_(screen_actress) HTTP/1.1" 200 16123
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bridget_Powers HTTP/1.1" 200 13090
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Return_to_Zero_(film) HTTP/1.1" 200 13855
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cain_and_Abel_(film) HTTP/1.1" 200 11672
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Goats_(film) HTTP/1.1" 200 15859
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ty_Burrell HTTP/1.1" 200 28794
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Goats_(film) HTTP/1.1" 200 15859
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Leaves_of_Grass_(film) HTTP/1.1" 200 19840
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Susan_Sarandon HTTP/1.1" 200 50964
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Arbitrage_(film) HTTP/1.1" 200 15603
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Nate_Parker HTTP/1.1" 200 45218
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dirty_(film) HTTP/1.1" 200 13364
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cole_Hauser HTTP/1.1" 200 17192
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Tortured_(film) HTTP/1.1" 200 10168
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/James_Cromwell HTTP/1.1" 200 32139
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Education_of_Little_Tree_(film) HTTP/1.1" 200 10984
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Graham_Greene_(actor) HTTP/1.1" 200 22835
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Antlers_(film) HTTP/1.1" 200 11682
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jesse_Plemons HTTP/1.1" 200 27689
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Antlers_(film) HTTP/1.1" 200 11682
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jungle_Cruise_(film) HTTP/1.1" 200 14853
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Paul_Giamatti HTTP/1.1" 200 44867
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Roosevelts_(film) HTTP/1.1" 200 31205
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Too_Big_to_Fail_(film) HTTP/1.1" 200 17275
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/James_Woods HTTP/1.1" 200 38397
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Too_Big_to_Fail_(film) HTTP/1.1" 200 17275
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_General%27s_Daughter_(film) HTTP/1.1" 200 18572
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/James_Woods HTTP/1.1" 200 38397
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Clarence_Williams_III HTTP/1.1" 200 16511
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Constellation_(film) HTTP/1.1" 200 11897
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Zoe_Saldana HTTP/1.1" 200 41823
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Unity_(film) HTTP/1.1" 200 15134
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Skeptic_(film) HTTP/1.1" 200 18049
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Andrea_Roth HTTP/1.1" 200 20144
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Skeptic_(film) HTTP/1.1" 200 18049
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Highwaymen_(film) HTTP/1.1" 200 13585
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Frankie_Faison HTTP/1.1" 200 18679
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Grudge_(film) HTTP/1.1" 200 16814
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jacki_Weaver HTTP/1.1" 200 30705
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Zeroville_(film) HTTP/1.1" 200 12854
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dave_Franco HTTP/1.1" 200 26656
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Six_Underground_(film) HTTP/1.1" 200 13442
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Payman_Maadi HTTP/1.1" 200 14886
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Six_Underground_(film) HTTP/1.1" 200 13442
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Tales_(film) HTTP/1.1" 200 11049
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Camp_X-Ray_(film) HTTP/1.1" 200 22626
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cory_Michael_Smith HTTP/1.1" 200 18535
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/First_Man_(film) HTTP/1.1" 200 23230
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Claire_Foy HTTP/1.1" 200 24684
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rosewater_(film) HTTP/1.1" 200 20546
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Haluk_Bilginer HTTP/1.1" 200 20701
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rosewater_(film) HTTP/1.1" 200 20546
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Reluctant_Fundamentalist_(film) HTTP/1.1" 200 28818
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Kiefer_Sutherland HTTP/1.1" 200 45728
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Truth_or_Consequences,_N.M._(film) HTTP/1.1" 200 13464
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Martin_Sheen HTTP/1.1" 200 72509
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dark_Circle_(film) HTTP/1.1" 200 15953
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hostile_Waters_(film) HTTP/1.1" 200 11869
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rod_Steiger HTTP/1.1" 200 91439
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Roswell_(film) HTTP/1.1" 200 10907
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Consenting_Adult_(film) HTTP/1.1" 200 12723
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Barry_Tubb HTTP/1.1" 200 14237
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Temple_Grandin_(film) HTTP/1.1" 200 26586
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Mask_(film) HTTP/1.1" 200 19584
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Eric_Stoltz HTTP/1.1" 200 27883
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Class_Rank_(film) HTTP/1.1" 200 11919
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Kristin_Chenoweth HTTP/1.1" 200 74323
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Honeymooners_(film) HTTP/1.1" 200 12248
+WARNING:root:year cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_Leguizamo HTTP/1.1" 200 35669
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Collateral_Damage_(film) HTTP/1.1" 200 18849
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_Turturro HTTP/1.1" 200 30254
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Monday_Night_Mayhem_(film) HTTP/1.1" 200 13251
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_Turturro HTTP/1.1" 200 30254
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_Leguizamo HTTP/1.1" 200 35669
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cliff_Curtis HTTP/1.1" 200 21239
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Point_of_Origin_(film) HTTP/1.1" 200 10100
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/A_Thousand_Words_(film) HTTP/1.1" 200 18286
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Allison_Janney HTTP/1.1" 200 45560
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ma_(film) HTTP/1.1" 200 10606
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Allison_Janney HTTP/1.1" 200 45560
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Missi_Pyle HTTP/1.1" 200 23704
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Miles_(film) HTTP/1.1" 200 10125
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Tim_Boardman HTTP/1.1" 200 12233
+WARNING:root:information box cannot be retrieved
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Miles_(film) HTTP/1.1" 200 10125
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Pandemic_(film) HTTP/1.1" 200 14888
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Mekhi_Phifer HTTP/1.1" 200 19642
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Divergent_(film) HTTP/1.1" 200 48350
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Kate_Winslet HTTP/1.1" 200 115630
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/A_Day_in_the_Life_(film) HTTP/1.1" 200 10111
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Tuskegee_Airmen_(film) HTTP/1.1" 200 24450
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cuba_Gooding_Jr. HTTP/1.1" 200 31358
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hardwired_(film) HTTP/1.1" 200 13246
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Val_Kilmer HTTP/1.1" 200 44545
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Blood_Out_(film) HTTP/1.1" 200 13226
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Tamer_Hassan HTTP/1.1" 200 16571
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Reverend_(film) HTTP/1.1" 200 13153
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rutger_Hauer HTTP/1.1" 200 26179
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Grindhouse_(film) HTTP/1.1" 200 51378
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Barbarossa_(film) HTTP/1.1" 200 18391
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hristo_Zhivkov HTTP/1.1" 200 10705
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hostile_Waters_(film) HTTP/1.1" 200 11869
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Inside_the_Third_Reich_(film) HTTP/1.1" 200 11939
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Osterman_Weekend_(film) HTTP/1.1" 200 19818
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Burt_Lancaster HTTP/1.1" 200 48956
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Buffy_the_Vampire_Slayer_(film) HTTP/1.1" 200 28352
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hilary_Swank HTTP/1.1" 200 44428
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Resident_(film) HTTP/1.1" 200 18639
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Christopher_Lee HTTP/1.1" 200 84436
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Deadpool_(film) HTTP/1.1" 200 100561
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Funny_Man_(film) HTTP/1.1" 200 11489
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Pauline_Black HTTP/1.1" 200 15763
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Star_Wars:_The_Clone_Wars_(film) HTTP/1.1" 200 44674
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Anthony_Daniels HTTP/1.1" 200 25591
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Star_Wars:_The_Clone_Wars_(film) HTTP/1.1" 200 44674
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Star_Wars_(film) HTTP/1.1" 200 132109
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Alec_Guinness HTTP/1.1" 200 61635
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Gate_of_Hell_(film) HTTP/1.1" 200 28137
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Machiko_Ky%C5%8D HTTP/1.1" 200 16810
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Shoeshine_(film) HTTP/1.1" 200 19279
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Emilio_Cigoli HTTP/1.1" 200 10797
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Kafka_(film) HTTP/1.1" 200 17587
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Alec_Guinness HTTP/1.1" 200 61635
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Armin_Mueller-Stahl HTTP/1.1" 200 25918
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Knight_of_Cups_(film) HTTP/1.1" 200 25614
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Natalie_Portman HTTP/1.1" 200 72893
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Knight_of_Cups_(film) HTTP/1.1" 200 25614
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Pride_and_Prejudice_and_Zombies_(film) HTTP/1.1" 200 34233
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Lena_Headey HTTP/1.1" 200 40217
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Century_(film) HTTP/1.1" 200 9975
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Pride_and_Prejudice_and_Zombies_(film) HTTP/1.1" 200 34233
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Laid_to_Rest_(film) HTTP/1.1" 200 16879
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Lena_Headey HTTP/1.1" 200 40217
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Nick_Principe HTTP/1.1" 200 16531
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Waitress_(film) HTTP/1.1" 200 17422
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Adrienne_Shelly HTTP/1.1" 200 26904
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hold_Me,_Thrill_Me,_Kiss_Me_(film) HTTP/1.1" 200 19040
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Diane_Ladd HTTP/1.1" 200 24560
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sophie_and_the_Rising_Sun_(film) HTTP/1.1" 200 12096
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Lorraine_Toussaint HTTP/1.1" 200 34747
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Their_Eyes_Were_Watching_God_(film) HTTP/1.1" 200 14383
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Michael_Ealy HTTP/1.1" 200 23836
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Unconditional_(film) HTTP/1.1" 200 12706
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Diego_Klattenhoff HTTP/1.1" 200 16439
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Radius_(film) HTTP/1.1" 200 13238
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Charlotte_Sullivan HTTP/1.1" 200 15793
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Iron_Road_(film) HTTP/1.1" 200 11224
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Charlotte_Sullivan HTTP/1.1" 200 15793
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Peter_O%27Toole HTTP/1.1" 200 52743
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Half_Nelson_(film) HTTP/1.1" 200 21327
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Anthony_Mackie HTTP/1.1" 200 24514
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Against_All_Enemies_(film) HTTP/1.1" 200 11522
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Vince_Vaughn HTTP/1.1" 200 29076
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Against_All_Enemies_(film) HTTP/1.1" 200 11522
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Delivery_Man_(film) HTTP/1.1" 200 17811
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cobie_Smulders HTTP/1.1" 200 25507
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Alright_Now_(film) HTTP/1.1" 200 10204
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jessica_Hynes HTTP/1.1" 200 24359
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Results_(film) HTTP/1.1" 200 16267
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Constance_Zimmer HTTP/1.1" 200 18839
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Results_(film) HTTP/1.1" 200 16267
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Entourage_(film) HTTP/1.1" 200 27617
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jeremy_Piven HTTP/1.1" 200 30808
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Entourage_(film) HTTP/1.1" 200 27617
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Edge_of_Tomorrow_(film) HTTP/1.1" 200 64180
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Brendan_Gleeson HTTP/1.1" 200 27613
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Snapper_(film) HTTP/1.1" 200 14298
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hampstead_(film) HTTP/1.1" 200 12731
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/James_Norton_(actor) HTTP/1.1" 200 27328
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hampstead_(film) HTTP/1.1" 200 12731
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bonobo_(film) HTTP/1.1" 200 9971
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/James_Norton_(actor) HTTP/1.1" 200 27328
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Josie_Lawrence HTTP/1.1" 200 27034
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Round_Ireland_with_a_Fridge_(film) HTTP/1.1" 200 10262
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Tessa_Peake-Jones HTTP/1.1" 200 13712
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hampstead_(film) HTTP/1.1" 200 12731
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bonobo_(film) HTTP/1.1" 200 9971
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Mr._Turner_(film) HTTP/1.1" 200 26488
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Martin_Savage_(actor) HTTP/1.1" 200 9584
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cheerful_Weather_for_the_Wedding_(film) HTTP/1.1" 200 11544
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Elizabeth_McGovern HTTP/1.1" 200 27716
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Downton_Abbey_(film) HTTP/1.1" 200 16717
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Maggie_Smith HTTP/1.1" 200 61661
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Downton_Abbey_(film) HTTP/1.1" 200 16717
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/My_Old_Lady_(film) HTTP/1.1" 200 14930
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dominique_Pinon HTTP/1.1" 200 26104
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Based_on_a_True_Story_(film) HTTP/1.1" 200 14331
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Emmanuelle_Seigner HTTP/1.1" 200 17445
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Based_on_a_True_Story_(film) HTTP/1.1" 200 14331
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/In_the_House_(film) HTTP/1.1" 200 17267
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ernst_Umhauer HTTP/1.1" 200 13483
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/In_the_House_(film) HTTP/1.1" 200 17267
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Giallo_(film) HTTP/1.1" 200 16716
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Elsa_Pataky HTTP/1.1" 200 20698
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/All_Things_to_All_Men_(film) HTTP/1.1" 200 13690
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Julian_Sands HTTP/1.1" 200 20576
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Walk_Like_a_Panther_(film) HTTP/1.1" 200 11824
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Julian_Sands HTTP/1.1" 200 20576
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jason_Flemyng HTTP/1.1" 200 23295
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Pegasus_Bridge_(film) HTTP/1.1" 200 11077
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rupert_Penry-Jones HTTP/1.1" 200 20782
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Pegasus_Bridge_(film) HTTP/1.1" 200 11077
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Charlotte_Gray_(film) HTTP/1.1" 200 17598
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Michael_Gambon HTTP/1.1" 200 35477
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Toys_(film) HTTP/1.1" 200 20624
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/LL_Cool_J HTTP/1.1" 200 59953
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Grudge_Match_(film) HTTP/1.1" 200 19306
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jon_Bernthal HTTP/1.1" 200 35054
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sweet_Virginia_(film) HTTP/1.1" 200 13363
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jared_Abrahamson HTTP/1.1" 200 12757
+WARNING:root:information box cannot be retrieved
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sweet_Virginia_(film) HTTP/1.1" 200 13363
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Shot_Caller_(film) HTTP/1.1" 200 17906
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Juan_Pablo_Raba HTTP/1.1" 200 14986
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Shot_Caller_(film) HTTP/1.1" 200 17906
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_33_(film) HTTP/1.1" 200 25529
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Gabriel_Byrne HTTP/1.1" 200 33632
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Carrie_Pilby_(film) HTTP/1.1" 200 14517
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Nathan_Lane HTTP/1.1" 200 52752
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Laughter_on_the_23rd_Floor_(film) HTTP/1.1" 200 13455
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Nathan_Lane HTTP/1.1" 200 52752
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Gabriel_Byrne HTTP/1.1" 200 33632
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jason_Ritter HTTP/1.1" 200 22494
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bitch_(film) HTTP/1.1" 200 11425
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jason_Ritter HTTP/1.1" 200 22494
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Lili_Simmons HTTP/1.1" 200 14984
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Fat_Kid_Rules_the_World_(film) HTTP/1.1" 200 9082
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Lili_Simmons HTTP/1.1" 200 14984
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Matt_O%27Leary HTTP/1.1" 200 14530
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Time_Lapse_(film) HTTP/1.1" 200 17322
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/George_Finn HTTP/1.1" 200 12768
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Time_Lapse_(film) HTTP/1.1" 200 17322
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Anytown_(film) HTTP/1.1" 200 9104
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/American_Son_(film) HTTP/1.1" 200 10503
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Solstice_(film) HTTP/1.1" 200 16956
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/R._Lee_Ermey HTTP/1.1" 200 36391
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Solstice_(film) HTTP/1.1" 200 16956
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Taking_Sides_(film) HTTP/1.1" 200 16210
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/R._Lee_Ermey HTTP/1.1" 200 36391
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Oleg_Tabakov HTTP/1.1" 200 21286
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Solstice_(film) HTTP/1.1" 200 16956
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Taking_Sides_(film) HTTP/1.1" 200 16210
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/You_Know_My_Name_(film) HTTP/1.1" 200 11339
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/James_Parks_(actor) HTTP/1.1" 200 11016
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Starship_Troopers_(film) HTTP/1.1" 200 28851
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Michael_Ironside HTTP/1.1" 200 17773
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Perfect_Storm_(film) HTTP/1.1" 200 22693
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_C._Reilly HTTP/1.1" 200 50095
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Marty_(film) HTTP/1.1" 200 29994
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jerry_Paris HTTP/1.1" 200 20030
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Man_on_the_Prowl_(film) HTTP/1.1" 200 11086
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Vivi_Janiss HTTP/1.1" 200 15739
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Man_on_the_Prowl_(film) HTTP/1.1" 200 11086
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Unchained_(film) HTTP/1.1" 200 11152
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Johnnie_Johnston HTTP/1.1" 200 13722
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rock_Around_the_Clock_(film) HTTP/1.1" 200 21637
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Freddie_Bell_and_the_Bellboys HTTP/1.1" 200 11794
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Unchained_(film) HTTP/1.1" 200 11152
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Prisoner_of_War_(film) HTTP/1.1" 200 13847
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dewey_Martin_(actor) HTTP/1.1" 200 15397
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sabre_Jet_(film) HTTP/1.1" 200 20284
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Julie_Bishop_(actress) HTTP/1.1" 200 17946
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Call_Me_Mister_(film) HTTP/1.1" 200 14854
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dan_Dailey HTTP/1.1" 200 22362
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Pepe_(film) HTTP/1.1" 200 15411
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Shirley_Jones HTTP/1.1" 200 40934
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Manna_from_Heaven_(film) HTTP/1.1" 200 10953
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Gideon_(film) HTTP/1.1" 200 10444
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dan_Dailey HTTP/1.1" 200 22362
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cantinflas HTTP/1.1" 200 35784
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cantinflas_(film) HTTP/1.1" 200 14849
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Adal_Ramones HTTP/1.1" 200 16423
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Pepe_(film) HTTP/1.1" 200 15411
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Courtship_of_Eddie%27s_Father_(film) HTTP/1.1" 200 13108
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Stella_Stevens HTTP/1.1" 200 27792
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/In_Broad_Daylight_(film) HTTP/1.1" 200 18023
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Stella_Stevens HTTP/1.1" 200 27792
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Suzanne_Pleshette HTTP/1.1" 200 32039
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Power_(film) HTTP/1.1" 200 15500
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Suzanne_Pleshette HTTP/1.1" 200 32039
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/George_Hamilton_(actor) HTTP/1.1" 200 33013
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rumor_Has_It_(film) HTTP/1.1" 200 18874
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Mike_Vogel HTTP/1.1" 200 19254
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/In_My_Dreams_(film) HTTP/1.1" 200 12312
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jessalyn_Wanlim HTTP/1.1" 200 11608
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/In_My_Dreams_(film) HTTP/1.1" 200 12312
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Alex_Cross_(film) HTTP/1.1" 200 20887
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jean_Reno HTTP/1.1" 200 23894
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hector_and_the_Search_for_Happiness_(film) HTTP/1.1" 200 18451
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Christopher_Plummer HTTP/1.1" 200 61471
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Chef_(film) HTTP/1.1" 200 12230
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Micha%C3%ABl_Youn HTTP/1.1" 200 16101
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Chef_(film) HTTP/1.1" 200 12230
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Chouchou_(film) HTTP/1.1" 200 10569
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Les_11_commandements_(film) HTTP/1.1" 200 10853
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Alex_Cross_(film) HTTP/1.1" 200 20887
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Armored_(film) HTTP/1.1" 200 14333
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Columbus_Short HTTP/1.1" 200 17666
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/True_to_the_Game_(film) HTTP/1.1" 200 10931
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jennifer_Freeman HTTP/1.1" 200 13301
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/True_to_the_Game_(film) HTTP/1.1" 200 10931
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jada_(film) HTTP/1.1" 200 9235
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Armored_(film) HTTP/1.1" 200 14333
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Flyboys_(film) HTTP/1.1" 200 21965
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/David_Ellison HTTP/1.1" 200 14558
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/World_War_Z_(film) HTTP/1.1" 200 52428
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Matthew_Fox HTTP/1.1" 200 27527
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/World_War_Z_(film) HTTP/1.1" 200 52428
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Emperor_(film) HTTP/1.1" 200 16472
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Kaori_Momoi HTTP/1.1" 200 19158
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Sun_(film) HTTP/1.1" 200 14529
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Issey_Ogata HTTP/1.1" 200 12245
+WARNING:root:information box cannot be retrieved
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Library_Wars_(film) HTTP/1.1" 200 10334
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Sun_(film) HTTP/1.1" 200 14529
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Swallowtail_Butterfly_(film) HTTP/1.1" 200 13723
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Atsuro_Watabe HTTP/1.1" 200 16127
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Japan_Academy_Prize_(film) HTTP/1.1" 200 18187
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Eijanaika_(film) HTTP/1.1" 200 12363
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Mitsuko_Baisho HTTP/1.1" 200 18571
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Memoirs_of_a_Geisha_(film) HTTP/1.1" 200 36089
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Samantha_Futerman HTTP/1.1" 200 14035
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/21_%26_Over_(film) HTTP/1.1" 200 18171
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sarah_Wright HTTP/1.1" 200 14929
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Walk_of_Shame_(film) HTTP/1.1" 200 15515
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Willie_Garson HTTP/1.1" 200 20703
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Walk_of_Shame_(film) HTTP/1.1" 200 15515
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sex_and_the_City_(film) HTTP/1.1" 200 32768
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Candice_Bergen HTTP/1.1" 200 31259
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Romantics_(film) HTTP/1.1" 200 12394
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Elijah_Wood HTTP/1.1" 200 43169
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/All_I_Want_(film) HTTP/1.1" 200 11193
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Mandy_Moore HTTP/1.1" 200 80730
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/All_I_Want_(film) HTTP/1.1" 200 11193
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dedication_(film) HTTP/1.1" 200 12781
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Mandy_Moore HTTP/1.1" 200 80730
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Billy_Crudup HTTP/1.1" 200 27070
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Where%27d_You_Go,_Bernadette_(film) HTTP/1.1" 200 14714
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Laurence_Fishburne HTTP/1.1" 200 42975
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Deadpool_(film) HTTP/1.1" 200 100561
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Mystic_River_(film) HTTP/1.1" 200 24297
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Laura_Linney HTTP/1.1" 200 37349
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Details_(film) HTTP/1.1" 200 13374
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Laura_Linney HTTP/1.1" 200 37349
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Kerry_Washington HTTP/1.1" 200 39121
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Strip_Search_(film) HTTP/1.1" 200 12746
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Austin_Pendleton HTTP/1.1" 200 22338
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Game_Change_(film) HTTP/1.1" 200 33261
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ed_Harris HTTP/1.1" 200 44391
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Kodachrome_(film) HTTP/1.1" 200 16113
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dennis_Haysbert HTTP/1.1" 200 28032
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Kodachrome_(film) HTTP/1.1" 200 16113
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Experimenter_(film) HTTP/1.1" 200 16269
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Winona_Ryder HTTP/1.1" 200 63525
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Experimenter_(film) HTTP/1.1" 200 16269
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Turks_%26_Caicos_(film) HTTP/1.1" 200 15061
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Malik_Yoba HTTP/1.1" 200 18658
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/A_Madea_Christmas_(film) HTTP/1.1" 200 18536
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Larry_the_Cable_Guy HTTP/1.1" 200 28152
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/A_Madea_Christmas_(film) HTTP/1.1" 200 18536
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Madea%27s_Big_Happy_Family_(film) HTTP/1.1" 200 18676
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Teyana_Taylor HTTP/1.1" 200 30001
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_After_Party_(film) HTTP/1.1" 200 13786
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Blair_Underwood HTTP/1.1" 200 28506
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_After_Party_(film) HTTP/1.1" 200 13786
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Something_New_(film) HTTP/1.1" 200 15461
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Blair_Underwood HTTP/1.1" 200 28506
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Simon_Baker HTTP/1.1" 200 20257
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Here_and_Now_(film) HTTP/1.1" 200 11732
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ren%C3%A9e_Zellweger HTTP/1.1" 200 67343
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Judy_(film) HTTP/1.1" 200 10738
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Michael_Gambon HTTP/1.1" 200 35477
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jessie_Buckley HTTP/1.1" 200 19981
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Deceiver_(film) HTTP/1.1" 200 10646
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Here_and_Now_(film) HTTP/1.1" 200 11732
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Same_Kind_of_Different_as_Me_(film) HTTP/1.1" 200 14588
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jon_Voight HTTP/1.1" 200 49134
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jasper,_Texas_(film) HTTP/1.1" 200 11869
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bokeem_Woodbine HTTP/1.1" 200 19807
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jasper,_Texas_(film) HTTP/1.1" 200 11869
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/1982_(film) HTTP/1.1" 200 11424
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ruby_Dee HTTP/1.1" 200 62525
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Having_Our_Say:_The_Delany_Sisters%27_First_100_Years_(film) HTTP/1.1" 200 12027
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Go_Tell_It_on_the_Mountain_(film) HTTP/1.1" 200 11309
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Paul_Winfield HTTP/1.1" 200 23745
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Go_Tell_It_on_the_Mountain_(film) HTTP/1.1" 200 11309
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Strategic_Command_(film) HTTP/1.1" 200 10176
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cliffhanger_(film) HTTP/1.1" 200 30226
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ralph_Waite HTTP/1.1" 200 21188
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sunshine_State_(film) HTTP/1.1" 200 12599
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Edie_Falco HTTP/1.1" 200 39722
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Outside_In_(film) HTTP/1.1" 200 14827
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ben_Schwartz HTTP/1.1" 200 20939
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Blue_Iguana_(film) HTTP/1.1" 200 12278
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Amanda_Donohoe HTTP/1.1" 200 19274
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Blue_Iguana_(film) HTTP/1.1" 200 12278
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/I%27m_Losing_You_(film) HTTP/1.1" 200 10743
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Foreign_Body_(film) HTTP/1.1" 200 11861
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Stratford_Johns HTTP/1.1" 200 16335
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Lair_of_the_White_Worm_(film) HTTP/1.1" 200 15650
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Stratford_Johns HTTP/1.1" 200 16335
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Castaway_(film) HTTP/1.1" 200 13223
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Amanda_Donohoe HTTP/1.1" 200 19274
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Oliver_Reed HTTP/1.1" 200 31700
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Sell_Out_(film) HTTP/1.1" 200 10255
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Gayle_Hunnicutt HTTP/1.1" 200 15651
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Turnaround_(film) HTTP/1.1" 200 11697
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Sell_Out_(film) HTTP/1.1" 200 10255
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Scorpio_(film) HTTP/1.1" 200 13143
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Gayle_Hunnicutt HTTP/1.1" 200 15651
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_Colicos HTTP/1.1" 200 15511
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Turnaround_(film) HTTP/1.1" 200 11697
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Sell_Out_(film) HTTP/1.1" 200 10255
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Scorpio_(film) HTTP/1.1" 200 13143
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Love_Machine_(film) HTTP/1.1" 200 12344
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/P.J._(film) HTTP/1.1" 200 11028
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Gayle_Hunnicutt HTTP/1.1" 200 15651
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Raymond_Burr HTTP/1.1" 200 80062
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Turnaround_(film) HTTP/1.1" 200 11697
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Sell_Out_(film) HTTP/1.1" 200 10255
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Scorpio_(film) HTTP/1.1" 200 13143
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Love_Machine_(film) HTTP/1.1" 200 12344
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/P.J._(film) HTTP/1.1" 200 11028
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Marlowe_(film) HTTP/1.1" 200 16293
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bruce_Lee HTTP/1.1" 200 67967
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Marlowe_(film) HTTP/1.1" 200 16293
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Golden_Bowl_(film) HTTP/1.1" 200 19514
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Uma_Thurman HTTP/1.1" 200 76332
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Deadpool_(film) HTTP/1.1" 200 100561
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_War_with_Grandpa_(film) HTTP/1.1" 200 13057
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Oakes_Fegley HTTP/1.1" 200 13150
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Goldfinch_(film) HTTP/1.1" 200 14831
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Luke_Wilson HTTP/1.1" 200 19384
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/All_the_Bright_Places_(film) HTTP/1.1" 200 11262
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Justice_Smith HTTP/1.1" 200 14156
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/All_the_Bright_Places_(film) HTTP/1.1" 200 11262
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Paper_Towns_(film) HTTP/1.1" 200 30629
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Justice_Smith HTTP/1.1" 200 14156
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Austin_Abrams HTTP/1.1" 200 13187
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dude_(film) HTTP/1.1" 200 15872
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Alex_Wolff HTTP/1.1" 200 19597
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Premiere_(film) HTTP/1.1" 200 12137
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Awkwafina HTTP/1.1" 200 23827
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bad_Rap_(film) HTTP/1.1" 200 11764
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Alexandra_Shipp HTTP/1.1" 200 16627
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dark_Phoenix_(film) HTTP/1.1" 200 46338
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jessica_Chastain HTTP/1.1" 200 80536
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Straight_Outta_Compton_(film) HTTP/1.1" 200 58989
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Paul_Giamatti HTTP/1.1" 200 44867
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jason_Mitchell_(actor) HTTP/1.1" 200 13524
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Tyrel_(film) HTTP/1.1" 200 12076
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Reg_E._Cathey HTTP/1.1" 200 22991
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Immortal_Life_of_Henrietta_Lacks_(film) HTTP/1.1" 200 14163
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Leslie_Uggams HTTP/1.1" 200 21743
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/And_the_Band_Played_On_(film) HTTP/1.1" 200 29578
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Tyrel_(film) HTTP/1.1" 200 12076
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/St._Vincent_(film) HTTP/1.1" 200 20686
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jaeden_Lieberher HTTP/1.1" 200 17191
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Lodge_(film) HTTP/1.1" 200 9678
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Aloha_(film) HTTP/1.1" 200 28039
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Alec_Baldwin HTTP/1.1" 200 63033
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/It%27s_Complicated_(film) HTTP/1.1" 200 28607
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_Krasinski HTTP/1.1" 200 45152
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Next_Gen_(film) HTTP/1.1" 200 17790
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Muppets_(film) HTTP/1.1" 200 59949
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rashida_Jones HTTP/1.1" 200 41973
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Grinch_(film) HTTP/1.1" 200 19361
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Angela_Lansbury HTTP/1.1" 200 93992
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Quincy_(film) HTTP/1.1" 200 12614
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Zoe_(film) HTTP/1.1" 200 14271
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Matthew_Gray_Gubler HTTP/1.1" 200 22385
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Zoe_(film) HTTP/1.1" 200 14271
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Excision_(film) HTTP/1.1" 200 14511
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_Waters HTTP/1.1" 200 43589
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Cockettes_(film) HTTP/1.1" 200 10849
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ray_Wise HTTP/1.1" 200 28673
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Bronx_Bull_(film) HTTP/1.1" 200 10716
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Penelope_Ann_Miller HTTP/1.1" 200 24525
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rocky_Marciano_(film) HTTP/1.1" 200 13532
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Penelope_Ann_Miller HTTP/1.1" 200 24525
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Judd_Hirsch HTTP/1.1" 200 27953
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Goodbye_People_(film) HTTP/1.1" 200 11859
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ron_Silver HTTP/1.1" 200 26781
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Skeletons_(film) HTTP/1.1" 200 9957
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Red_Mercury_(film) HTTP/1.1" 200 12077
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/David_Bradley_(English_actor) HTTP/1.1" 200 26086
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Young_Messiah_(film) HTTP/1.1" 200 22628
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/David_Burke_(British_actor) HTTP/1.1" 200 16761
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/A_View_from_a_Hill_(film) HTTP/1.1" 200 12139
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jonathan_Bailey_(actor) HTTP/1.1" 200 14937
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Five_Children_and_It_(film) HTTP/1.1" 200 19203
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Eddie_Izzard HTTP/1.1" 200 49036
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Day_Out_of_Days_(film) HTTP/1.1" 200 11705
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Eddie_Izzard HTTP/1.1" 200 49036
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Melanie_Griffith HTTP/1.1" 200 52940
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Automata_(film) HTTP/1.1" 200 15948
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Melanie_Griffith HTTP/1.1" 200 52940
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Tim_McInnerny HTTP/1.1" 200 19344
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Boy_in_the_Dress_(film) HTTP/1.1" 200 17194
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Peterloo_(film) HTTP/1.1" 200 14165
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Pearce_Quigley HTTP/1.1" 200 11427
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Hippopotamus_(film) HTTP/1.1" 200 12071
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Roger_Allam HTTP/1.1" 200 25133
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ethel_%26_Ernest_(film) HTTP/1.1" 200 12591
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Luke_Treadaway HTTP/1.1" 200 19029
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/A_Street_Cat_Named_Bob_(film) HTTP/1.1" 200 17923
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Caroline_Goodall HTTP/1.1" 200 17279
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hunter_Killer_(film) HTTP/1.1" 200 14773
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Toby_Stephens HTTP/1.1" 200 34942
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hunter_Killer_(film) HTTP/1.1" 200 14773
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/A_Street_Cat_Named_Bob_(film) HTTP/1.1" 200 17923
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Best_of_Me_(film) HTTP/1.1" 200 22693
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Liana_Liberato HTTP/1.1" 200 16217
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/To_the_Stars_(film) HTTP/1.1" 200 10445
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jordana_Spiro HTTP/1.1" 200 17151
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/To_the_Stars_(film) HTTP/1.1" 200 10445
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/To_the_Bone_(film) HTTP/1.1" 200 15637
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Keanu_Reeves HTTP/1.1" 200 47753
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Deadpool_(film) HTTP/1.1" 200 100561
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/John_Wick_(film) HTTP/1.1" 200 70878
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Willem_Dafoe HTTP/1.1" 200 81031
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Motherless_Brooklyn_(film) HTTP/1.1" 200 11803
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Alec_Baldwin HTTP/1.1" 200 63033
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bobby_Cannavale HTTP/1.1" 200 29833
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Motherless_Brooklyn_(film) HTTP/1.1" 200 11803
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ferdinand_(film) HTTP/1.1" 200 30848
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/David_Tennant HTTP/1.1" 200 85756
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Chew_(film) HTTP/1.1" 200 10094
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/David_Tennant HTTP/1.1" 200 85756
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Felicia_Day HTTP/1.1" 200 33199
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Chew_(film) HTTP/1.1" 200 10094
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ferdinand_(film) HTTP/1.1" 200 30848
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Pirates!_In_an_Adventure_with_Scientists_(film) HTTP/1.1" 200 34516
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bright_Young_Things_(film) HTTP/1.1" 200 18874
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Peter_O%27Toole HTTP/1.1" 200 52743
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jim_Broadbent HTTP/1.1" 200 39885
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Voyage_of_Doctor_Dolittle_(film) HTTP/1.1" 200 14603
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jim_Broadbent HTTP/1.1" 200 39885
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Michael_Sheen HTTP/1.1" 200 84246
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Voyage_of_Doctor_Dolittle_(film) HTTP/1.1" 200 14603
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Magik_(film) HTTP/1.1" 200 71627
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/12_Years_A_Slave_(film) HTTP/1.1" 200 68179
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Alfre_Woodard HTTP/1.1" 200 54507
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/So_B._It_(film) HTTP/1.1" 200 12726
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Talitha_Bateman HTTP/1.1" 200 12663
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/So_B._It_(film) HTTP/1.1" 200 12726
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_5th_Wave_(film) HTTP/1.1" 200 27083
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Liev_Schreiber HTTP/1.1" 200 45332
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Since_You%27ve_Been_Gone_(film) HTTP/1.1" 200 10251
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Joey_Slotnick HTTP/1.1" 200 11464
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Humor_Me_(film) HTTP/1.1" 200 11584
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Maria_Dizzia HTTP/1.1" 200 14525
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Blast_from_the_Past_(film) HTTP/1.1" 200 17415
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dave_Foley HTTP/1.1" 200 25052
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Second_Act_(film) HTTP/1.1" 200 14196
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Larry_Miller_(comedian) HTTP/1.1" 200 21421
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Second_Act_(film) HTTP/1.1" 200 14196
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/General_Education_(film) HTTP/1.1" 200 12553
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Skylan_Brooks HTTP/1.1" 200 11712
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Darkest_Minds_(film) HTTP/1.1" 200 20728
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Gwendoline_Christie HTTP/1.1" 200 29489
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Southpaw_(film) HTTP/1.1" 200 30035
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rachel_McAdams HTTP/1.1" 200 82087
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Species_(film) HTTP/1.1" 200 33758
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Natasha_Henstridge HTTP/1.1" 200 24100
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Steal_(film) HTTP/1.1" 200 12205
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Karen_Cliche HTTP/1.1" 200 14021
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Steal_(film) HTTP/1.1" 200 12205
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Bounce_(film) HTTP/1.1" 200 16851
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jennifer_Grey HTTP/1.1" 200 27634
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Duck_Duck_Goose_(film) HTTP/1.1" 200 13935
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Carl_Reiner HTTP/1.1" 200 38375
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Duck_Duck_Goose_(film) HTTP/1.1" 200 13935
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dumbbells_(film) HTTP/1.1" 200 11008
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Andy_Milonakis HTTP/1.1" 200 19269
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Dumbbells_(film) HTTP/1.1" 200 11008
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Waiting..._(film) HTTP/1.1" 200 15897
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Luis_Guzm%C3%A1n HTTP/1.1" 200 21460
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Old_Dogs_(film) HTTP/1.1" 200 21375
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Matt_Dillon HTTP/1.1" 200 26879
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Fonzo_(film) HTTP/1.1" 200 11452
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Kathrine_Narducci HTTP/1.1" 200 14572
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Fonzo_(film) HTTP/1.1" 200 11452
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cruise_(film) HTTP/1.1" 200 12978
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sebastian_Maniscalco HTTP/1.1" 200 11869
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Group_Sex_(film) HTTP/1.1" 200 9664
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jersey_Boys_(film) HTTP/1.1" 200 29386
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Christopher_Walken HTTP/1.1" 200 53943
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Birdman_(film) HTTP/1.1" 200 69291
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Naomi_Watts HTTP/1.1" 200 70796
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/While_We%27re_Young_(film) HTTP/1.1" 200 20580
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Ad-Rock HTTP/1.1" 200 18377
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Birdman_(film) HTTP/1.1" 200 69291
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Diana_(film) HTTP/1.1" 200 21627
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Naveen_Andrews HTTP/1.1" 200 21548
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Diana_(film) HTTP/1.1" 200 21627
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Grindhouse_(film) HTTP/1.1" 200 51378
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Adore_(film) HTTP/1.1" 200 16515
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/James_Frecheville HTTP/1.1" 200 12727
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/I.T._(film) HTTP/1.1" 200 17458
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Michael_Nyqvist HTTP/1.1" 200 27115
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Kursk_(film) HTTP/1.1" 200 18448
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Michael_Nyqvist HTTP/1.1" 200 27115
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Max_von_Sydow HTTP/1.1" 200 41947
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Hostile_Waters_(film) HTTP/1.1" 200 11869
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Letters_(film) HTTP/1.1" 200 13618
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rutger_Hauer HTTP/1.1" 200 26179
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Max_von_Sydow HTTP/1.1" 200 41947
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Juliet_Stevenson HTTP/1.1" 200 26097
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Road_from_Coorain_(film) HTTP/1.1" 200 8727
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Cider_with_Rosie_(film) HTTP/1.1" 200 13177
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Juliet_Stevenson HTTP/1.1" 200 26097
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/L%C3%A9a_Seydoux HTTP/1.1" 200 36116
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Zoe_(film) HTTP/1.1" 200 14271
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Lourdes_(film) HTTP/1.1" 200 12770
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Elina_L%C3%B6wensohn HTTP/1.1" 200 12901
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Saint_Laurent_(film) HTTP/1.1" 200 19129
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Helmut_Berger HTTP/1.1" 200 25602
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Faceless_(film) HTTP/1.1" 200 13862
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/St%C3%A9phane_Audran HTTP/1.1" 200 22939
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Champagne_Charlie_(film) HTTP/1.1" 200 20020
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Jean_Kent HTTP/1.1" 200 17931
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Shout_at_the_Devil_(film) HTTP/1.1" 200 19210
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Roger_Moore HTTP/1.1" 200 60462
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Spiceworld_(film) HTTP/1.1" 200 29850
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Roger_Moore HTTP/1.1" 200 60462
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Mark_McKinney HTTP/1.1" 200 18493
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Spiceworld_(film) HTTP/1.1" 200 29850
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Quest_(film) HTTP/1.1" 200 16693
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/James_Remar HTTP/1.1" 200 25819
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sharpshooter_(film) HTTP/1.1" 200 10661
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Survivors_Club_(film) HTTP/1.1" 200 9568
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Lauren_Lee_Smith HTTP/1.1" 200 22059
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/One_Way_(film) HTTP/1.1" 200 11745
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Helen_(film) HTTP/1.1" 200 10685
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Pathology_(film) HTTP/1.1" 200 14570
+WARNING:root:year cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Larry_Drake HTTP/1.1" 200 21367
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Pathology_(film) HTTP/1.1" 200 14570
+WARNING:root:year cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Spun_(film) HTTP/1.1" 200 16158
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Mickey_Rourke HTTP/1.1" 200 57786
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Saturn_Award_for_Best_Supporting_Actor_(film) HTTP/1.1" 200 28811
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/F.T.W._(film) HTTP/1.1" 200 10451
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Mickey_Rourke HTTP/1.1" 200 57786
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Brion_James HTTP/1.1" 200 22786
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Saturn_Award_for_Best_Supporting_Actor_(film) HTTP/1.1" 200 28811
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/F.T.W._(film) HTTP/1.1" 200 10451
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Killshot_(film) HTTP/1.1" 200 19086
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Rosario_Dawson HTTP/1.1" 200 33518
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Someone_Great_(film) HTTP/1.1" 200 10599
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/DeWanda_Wise HTTP/1.1" 200 14058
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Someone_Great_(film) HTTP/1.1" 200 10599
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Precious_(film) HTTP/1.1" 200 48489
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Lenny_Kravitz HTTP/1.1" 200 56858
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Holy_Ghost_(film) HTTP/1.1" 200 12808
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Brian_Welch HTTP/1.1" 200 41202
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Holy_Ghost_(film) HTTP/1.1" 200 12808
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Precious_(film) HTTP/1.1" 200 48489
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Henchmen_(film) HTTP/1.1" 200 11647
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Will_Sasso HTTP/1.1" 200 19865
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Susie_Q_(film) HTTP/1.1" 200 16074
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Chris_William_Martin HTTP/1.1" 200 13032
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Boss_Level_(film) HTTP/1.1" 200 10749
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Selina_Lo HTTP/1.1" 200 11879
+WARNING:root:age cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Henchmen_(film) HTTP/1.1" 200 11647
+WARNING:root:year cannot be retrieved
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Right_Kind_of_Wrong_(film) HTTP/1.1" 200 11572
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Sara_Canning HTTP/1.1" 200 26039
+INFO:root:Actor data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Eadweard_(film) HTTP/1.1" 200 12608
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/The_Right_Kind_of_Wrong_(film) HTTP/1.1" 200 11572
+WARNING:root:grossing cannot be retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Life_as_We_Know_It_(film) HTTP/1.1" 200 17190
+INFO:root:Movie data is successfully retrieved
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): en.wikipedia.org:443
+DEBUG:urllib3.connectionpool:https://en.wikipedia.org:443 "GET /wiki/Josh_Lucas HTTP/1.1" 200 24430
+INFO:root:Actor data is successfully retrieved
